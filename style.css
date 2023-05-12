@@ -28,7 +28,7 @@ footer {
 #header {
   height: 23px;
   align-items: center;
-  margin: 65px auto 58px;
+  padding: 65px 0 58px;
 }
 
 #header,
