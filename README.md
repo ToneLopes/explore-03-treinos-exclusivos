@@ -17,7 +17,7 @@ Este é um projeto da RocketSeat do programa Explore composto por 20 módulos, c
 <br>
 
 <p align="center">
-  <img src="images/print-projeto.png" width="100%">
+  <img src="images/print-project.png" width="100%">
 </p>
 <br>
 
